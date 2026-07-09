@@ -1,0 +1,8 @@
+// Overthinker's Decision Tree
+digraph {
+	D [label="🤔 coffee or tea"]
+	O0 [label=coffee]
+	D -> O0
+	O1 [label=tea]
+	D -> O1
+}
