@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Overthinker's Assistant
+<img src="assets/banner.svg" width="100%" alt="Overthinker's Assistant: Turn a decision into a tree of pros and cons" />
 
 **Type a decision. Get pros, cons, sarcasm and a flowchart, so you can overthink it properly.**
 
