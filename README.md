@@ -13,6 +13,16 @@
 
 ---
 
+<div align="center">
+
+![Overthinker's Assistant demo](assets/demo.gif)
+
+<sub>Recorded from a clean local run of the Flask app.</sub>
+
+</div>
+
+---
+
 ## ✨ What it does
 
 Enter something like `coffee or tea` and the app:
