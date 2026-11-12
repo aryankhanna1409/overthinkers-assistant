@@ -4,10 +4,10 @@
 
 **Type a decision. Get pros, cons, sarcasm and a flowchart, so you can overthink it properly.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-web%20app-000000?style=flat-square&logo=flask&logoColor=white)
-![Graphviz](https://img.shields.io/badge/Graphviz-decision%20tree-1F77B4?style=flat-square)
-![Markov](https://img.shields.io/badge/markovify-text%20generation-8A2BE2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3b2416?style=flat-square&logo=python&logoColor=efdfc4)
+![Flask](https://img.shields.io/badge/Flask-web%20app-8a5a22?style=flat-square&logo=flask&labelColor=1d120b&logoColor=efdfc4)
+![Graphviz](https://img.shields.io/badge/Graphviz-decision%20tree-8a5a22?style=flat-square&labelColor=1d120b)
+![Markov](https://img.shields.io/badge/markovify-text%20generation-8a5a22?style=flat-square&labelColor=1d120b)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ What it does
+## What it does
 
 Enter something like `coffee or tea` and the app:
 
@@ -37,7 +37,7 @@ Reasons are intentionally unhelpful and funny ("Some say coffee is how your vill
 
 ---
 
-## 🚀 Quick start
+## Quick start
 
 Install [Graphviz](https://graphviz.org/download/) first (the system tool, not just the Python package), then:
 
@@ -53,7 +53,7 @@ Open the address Flask prints (normally http://127.0.0.1:5000).
 
 ---
 
-## 📁 Project layout
+## Project layout
 
 | File | Role |
 |---|---|
@@ -69,6 +69,10 @@ Decision history (`history.json`) and the list of already-used reasons (`used_re
 
 <div align="center">
 
+<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+
 Built for people who think about thinking
+
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
 </div>
