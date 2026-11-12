@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Overthinker's Assistant: Turn a decision into a tree of pros and cons" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" /><img src="assets/banner.svg" width="100%" alt="Overthinker's Assistant: Turn a decision into a tree of pros and cons" /></picture>
 
 **Type a decision. Get pros, cons, sarcasm and a flowchart, so you can overthink it properly.**
 
@@ -69,7 +69,7 @@ Decision history (`history.json`) and the list of already-used reasons (`used_re
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" /></picture>
 
 Built for people who think about thinking
 
